@@ -1,2 +1,2 @@
-# rule_script
+# rule script
 规则 脚本
