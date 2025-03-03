@@ -1,2 +1,2 @@
-# ios-rule-script
+# rule_script
 规则 脚本
