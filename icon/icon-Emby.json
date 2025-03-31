@@ -2,6 +2,7 @@
   "name":"Emby图标自用", "description":"补充Emby服没有的图标", 
   "icons":[    
     {"name":"wenjian", "url":"https:\/\/raw.githubusercontent.com\/BaiYe0002\/rule_script\/main\/icon\/Emby\/wenjian.jpg"},
-    {"name":"UHD", "url":"https:\/\/raw.githubusercontent.com\/BaiYe0002\/rule_script\/main\/icon\/Emby\/UHD.png"}
+    {"name":"UHD", "url":"https:\/\/raw.githubusercontent.com\/BaiYe0002\/rule_script\/main\/icon\/Emby\/UHD.png"},
+    {"name":"UHD", "url":"https:\/\/raw.githubusercontent.com\/BaiYe0002\/rule_script\/main\/icon\/Emby\/DPeak Filma.png"}
   ]
 }
